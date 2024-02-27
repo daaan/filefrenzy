@@ -1,0 +1,16 @@
+.filefrenzy-list-filetype {
+    width: 10%;
+}
+
+.filelisticon {
+    text-align: center;
+}
+
+.filelisticon p.icon-desc {
+    margin: 0 !important;
+    font-size: 0.7em;
+}
+
+.filelisticon i{
+    font-size: 2em;
+}
